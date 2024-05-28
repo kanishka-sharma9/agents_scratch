@@ -1,3 +1,4 @@
 # Agents
 
-in this repo i have shown how to make AI agents from scratch.
+## 28 -05 -2024
+In this repo I have built multi layer AI agents from scratch.
